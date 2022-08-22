@@ -31,8 +31,10 @@
 
 [<img align="left" alt="telegram" width="30px" src="img/telegram.svg" />][telegram]
 [<img align="left" alt="linkedin" width="30px" src="img/linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="30px" src="img/email.svg" />][email]
 
 [telegram]: https://t.me/Alex_Mercy_Dev
 [linkedin]: https://www.linkedin.com/in/alex-mercy-881416249/
+[email]: mailto:M-alex225@yandex.ru
 [mock]: #
 
