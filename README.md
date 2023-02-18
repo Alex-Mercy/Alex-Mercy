@@ -1,4 +1,4 @@
-# Hi there  👋 I'm a Front-end Developer
+# Hi there  👋 
 
 <h3>LANGUAGES AND TOOLS</h3>
 
